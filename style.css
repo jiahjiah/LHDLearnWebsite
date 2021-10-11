@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+body { 
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding-bottom: 2rem;
+  margin: 5%;
+  background-image: url("https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif");
+  font-family: 'Playfair Display', serif;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
